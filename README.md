@@ -5,9 +5,8 @@
 
 - All of my projects are available at GitHun.
 
-- I regularly write articles on [Coming Soon](Coming Soon)
+- I regularly write articles on [iamtechyanimesh.co.in]
   
-- Know about my experiences [Coming Soon](Coming Soon)
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/@AnimeshPanna" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://dev.to/@soon" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
