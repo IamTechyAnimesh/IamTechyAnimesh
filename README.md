@@ -1,26 +1,30 @@
-<h1>Hi👋, I'm Animesh</h1>
-<h3>A passionate cybersecurity student from India.</h3>
+<div class="position-relative">   
+  <div class="Box mt-4">
+  <div class="Box-body p-4">
+    <div class="d-flex flex-justify-between">
+      <div class="text-mono text-small mb-3">
+        <a href="https://github.com/IamTechyAnimesh" class="no-underline Link--primary">IamTechyAnimesh</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
+      </div>
 
-- I’m currently learning **Cyber Security , Network , Python , Linux**
+</path></svg></a><b><i>Howdy , it's Animesh Panna <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></i></b></h2>
 
-- All of my projects are available at GitHun.
-
-- I regularly write articles on [iamtechyanimesh.co.in]
-  
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/@AnimeshPanna" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://dev.to/@soon" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/@non" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/@7_who.am__i" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a target="_blank" href="undefined@soon" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a>
-<a target="_blank" href="https://stackoverflow.com/users/@soon" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=7wh0am-i&label=Profile%20views&color=0e75b6&style=flat" alt="7wh0am-i" /> </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<p>         <br>    </p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=IamTechyAnimesh&show_icons=true&locale=en&layout=compact" alt="IamTechyAnimesh" /></p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://buymeacoffee.com/IamTechyAnimesh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="soon" />
+![Hackersking GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IamTechyAnimesh&layout=compact&show_icons=true&theme=radical)</br>
+![Hackersking GitHub stats](https://github-readme-stats.vercel.app/api/?username=IamTechyAnimesh&layout=compact&show_icons=true&theme=radical) 
 
 
+<h3 dir="auto"><a id="user-content--about-me-" class="anchor" aria-hidden="true" href="#-about-me-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><b><i><g-emoji class="g-emoji" alias="cowboy_hat_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f920.png">🤠</g-emoji> About me :</i></b></h3>
+<li> <g-emoji class="g-emoji" alias="innocent" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f607.png">😇</g-emoji> <i>A Learner</i></li>
+<li> <g-emoji class="g-emoji" alias="zipper_mouth_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f910.png">🤐</g-emoji> <i>Every Expert Was Once A Beginner</i></li>
+<h3 dir="auto"><a id="user-content--works-" class="anchor" aria-hidden="true" href="#-works-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><b><i><g-emoji class="g-emoji" alias="skull_and_crossbones" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2620.png">☠</g-emoji> Works :</i></b></h3>
+<li> <a href="https://github.com/kinghacker0/WhatsApp-Osint]">NubOxint -  Phone number Information Gathering</a>
+  <li><a href="https://github.com/IamTechyAnimesh/">GoOsint - OSINT Tool for Gmail Information Gathering</li>
+<h3 dir="auto"><a id="user-content--github-statistics-" class="anchor" aria-hidden="true" href="#-github-statistics-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
+
+
+<h3 dir="auto"><a id="user-content--get-in-touch-" class="anchor" aria-hidden="true" href="#-get-in-touch-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><b><i><g-emoji class="g-emoji" alias="satellite" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e1.png">📡</g-emoji> Get in Touch :</i></b></h3>
+<a href="https://github.com/IamTechyAnimesh"><img align="left" title="Github" alt="Github" width="30px" src="https://raw.githubusercontent.com/htr-tech/htr-tech/master/assets/github.png" style="max-width: 100%;"></a>
+<a href="https://www.instagram.com/" rel="nofollow"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/htr-tech/htr-tech/master/assets/instagram.png" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/animesh-panna/" rel="nofollow"><img align="left" title="Website" alt="Hackersking" width="30px" src="https://avatars.githubusercontent.com/u/48322980?s=96&v=4" style="max-width: 100%;"></a>      
+</li></article>
+  </div>
+</div>
